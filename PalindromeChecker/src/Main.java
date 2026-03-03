@@ -1,6 +1,6 @@
 import java.sql.SQLOutput;
 
-public class Main {
+public class UseCase1PalindromeCheckerApp {
     public static void main(String[] args){
         System.out.println("Palindrome checker management ");
         System.out.println("Application name ");
@@ -8,5 +8,4 @@ public class Main {
         System.out.println("System initialized successfully");
 
     }
-
 }
