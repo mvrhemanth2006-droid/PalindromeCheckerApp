@@ -8,4 +8,5 @@ public class Main {
         System.out.println("System initialized successfully");
 
     }
+
 }
